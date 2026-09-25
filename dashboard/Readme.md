@@ -2,7 +2,7 @@
 
 
 <p align="justify">
-<b>Dado que el archivo ejecutable de Power BI (.pbix) supera los límites de almacenamiento para archivos pesados en GitHub</b>, la Memoria Técnica en PDF adjunta en esta carpeta incluye las capturas de pantalla de cada uno de los paneles interactivos, acompañadas de su respectivo análisis forense y metodológico. El cuadro de mando fue estructurado en 6 páginas o paneles temáticos, diseñados para guiar al usuario desde una perspectiva macroscópica del negocio hasta el detalle operativo de cada transacción.
+<b>Dado que el archivo ejecutable de Power BI (.pbix) supera los límites de almacenamiento para archivos pesados en GitHub</b>, la Memoria Técnica en PDF adjunta en esta carpeta incluye las capturas de pantalla de cada uno de los paneles interactivos, acompañadas de su respectivo análisis. El cuadro de mando fue estructurado en 6 páginas o paneles temáticos, diseñados para guiar al usuario desde una perspectiva macroscópica del negocio hasta el detalle operativo de cada transacción.
 </p>
 
 ---
