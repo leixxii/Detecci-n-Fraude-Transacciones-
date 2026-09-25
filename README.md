@@ -33,7 +33,7 @@ A partir de un dataset masivo con **2,55 millones de transacciones** proveniente
 │   └── Memoria_ML_Fraude.pdf         # Memoria técnica del modelo predictivo
 │
 ├── dashboard/
-│   ├── Dashboard_Fraude.pbix         # Archivo ejecutable de Power BI
+│ 
 │   └── Memoria_Dashboard_PBI.pdf     # Documentación técnica de las 6 páginas del informe
 │
 └── README.md                         # Presentación general del proyecto
